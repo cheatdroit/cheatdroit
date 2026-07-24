@@ -121,7 +121,7 @@ Git • GitHub • Linux • VS Code
 
 # 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=cheatdroit&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
