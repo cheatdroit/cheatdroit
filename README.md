@@ -132,7 +132,7 @@ Git • GitHub • Linux • VS Code
 
 # 📫 Connect
 
-- [LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/dipendraexe/)
+- [LinkedIn:](https://www.linkedin.com/in/dipendraexe/)
 
 ---
 
